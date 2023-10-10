@@ -2,7 +2,7 @@
 Here i created an ann model to predict the strenth of concrete in R
 
 
-```markdown
+
 # Concrete Strength Prediction with Artificial Neural Network (ANN)
 
 This project is a concrete strength prediction model implemented using Artificial Neural Networks (ANN) in R. Given various input parameters such as slag, water, ash, and more, the model predicts the strength of concrete. This README provides an overview of the project, how to get started, usage instructions, and more.
